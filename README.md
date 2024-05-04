@@ -47,7 +47,6 @@ I am someone who enjoys coding and music. I am a software engineering student wi
 ## Visitors
 
 <p align = "center">
-<img src="https://visit-counter.vercel.app/counter.png?page=github.com/sandylabs&c=000&ff=poppins">
 <!-- <img src="https://visit-counter.vercel.app/counter.png?page=github.com/sandylabs&c=000&ff=poppins"> -->
 ![](https://komarev.com/ghpvc/?username=sandylabs&style=for-the-badge&color=grey)
 </p>
