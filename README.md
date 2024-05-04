@@ -54,7 +54,7 @@ I am someone who enjoys coding and music. I am a software engineering student wi
 
 <p align = "center">
 
-<img src="https://visit-counter.vercel.app/counter.png?page=github.com/sandylabs&c=ffffff&ff=poppins">
+[<img src="https://visit-counter.vercel.app/counter.png?page=github.com/sandylabs&c=ffffff&ff=poppins">](https://visit-counter.vercel.app/counter.png?page=github.com/sandylabs&c=000&ff=poppins)
 </p>
 
 <!-- 
