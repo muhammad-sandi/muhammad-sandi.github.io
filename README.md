@@ -4,7 +4,7 @@ I am someone who enjoys coding and music. I am a software engineering student wi
 **My Interest**:
 - I’m interested in lofi music, memes
 - I’m currently learning UI UX design, ReactJS, and many more
-- 
+
  **I am open to**:
 - any collaboration work,
 - machine learning projects(development or research),
