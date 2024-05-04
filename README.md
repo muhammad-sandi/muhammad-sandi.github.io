@@ -46,10 +46,10 @@ I am someone who enjoys coding and music. I am a software engineering student wi
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/sandi.lv)
 </p>
 
-## Statistics
-
 | <a href="https://github.com/muhammad-sandi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammad-sandi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammad Sandi's github stats" /></a> | <a href="https://github.com/muhammad-sandi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sandi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+## Statistics
 
 <p align = "center">
 <!-- <img src="https://visit-counter.vercel.app/counter.png?page=github.com/sandylabs&c=000&ff=poppins"> -->
