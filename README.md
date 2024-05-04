@@ -20,7 +20,7 @@ I am someone who enjoys coding and music. I am a software engineering student wi
 ![Javascript](https://img.shields.io/badge/Javascript-FFFF00?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-8A2BE2?style=for-the-badge&logo=php&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-1E90FF?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=white)
 
