@@ -45,7 +45,7 @@ I am someone who enjoys coding and music. I am a software engineering student wi
 
 <p align = "center">
 
-| <a href="https://github.com/sandylabs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=lintangtimur&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammad Sandi's github stats" /></a> | <a href="https://github.com/sandylabs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandylabs&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/sandylabs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sandylabs&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Muhammad Sandi's github stats" /></a> | <a href="https://github.com/sandylabs/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-sandi&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
  
 ![](https://komarev.com/ghpvc/?username=sandylabs&style=for-the-badge&color=grey)
