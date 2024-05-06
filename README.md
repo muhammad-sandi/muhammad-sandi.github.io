@@ -1,4 +1,4 @@
-### Hey folks, I'm [Muhammad Sandi](https://muhammad-sandi.github.io), another side of [@muhammad-sandi](https://github.com/muhammad-sandi) 👋
+### Hey folks, I'm [Muhammad Sandi](https://muhammad-sandi.github.io), another version of [@muhammad-sandi](https://github.com/muhammad-sandi) 👋
 I am someone who enjoys coding and music. I am a software engineering student with experience working as a web developer, particularly with the PHP programming language.
 
 **My Interest**:
